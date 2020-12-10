@@ -18,6 +18,7 @@ entity adder is
 	Cout   : out std_logic
   );
 end entity;
+-- Test 2
 -----------------------------------------------------
 architecture behav of adder is  
   signal sum_temp : std_logic_vector (N downto 0);  
