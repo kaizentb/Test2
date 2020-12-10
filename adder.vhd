@@ -27,3 +27,4 @@ architecture behav of adder is
 	Sum <= sum_temp(N-1 downto 0);
 	Cout <= sum_temp(N);   
 end architecture;
+--test 3
